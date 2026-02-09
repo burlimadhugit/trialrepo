@@ -1,0 +1,3 @@
+Hello trying for pull
+after commit this should not show maybe
+now i am using add and then comit so this line will not show uneless I use pull
